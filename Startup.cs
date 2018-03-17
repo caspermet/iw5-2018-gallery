@@ -43,6 +43,7 @@ namespace xmorav32
             {
                 await context.Response.WriteAsync("Hello World!");
             });
+            int test;
         }
     }
 }
